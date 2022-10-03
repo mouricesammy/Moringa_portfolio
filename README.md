@@ -6,7 +6,7 @@
 <br />
 <br />
 
-# Demo link :[Demo link](https://dopefolio.netlify.app) 🔗
+# Demo link :[Demo link](https://mouricesammy.github.io/Moringa_portfolio) 🔗
 <br />
 <br />
 
